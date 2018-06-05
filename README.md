@@ -1,2 +1,0 @@
-# abosoluteZERO
-hello world
